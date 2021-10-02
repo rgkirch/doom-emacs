@@ -1,3 +1,5 @@
 name: 'Set up Doom Emacs'
 description: 'Install doom emacs to test your emacs config in a workflow.'
 runs:
+  using: sh
+  main: 'install.sh'
