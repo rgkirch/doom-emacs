@@ -1,0 +1,1 @@
+bin/doom install
